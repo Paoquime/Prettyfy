@@ -1,0 +1,33 @@
+/* IMPORT RESET */
+@import url("reset.css");
+
+/* IMPORT 12 COLUMN RESPONSIVE GS */
+@import url("responsive.gs.12col.css");
+
+
+/*	EXAMPLE STYLES */
+body {
+	font-family: sans-serif;
+	color: #8F27E5;
+}
+
+header {
+	line-height: 3em;
+	text-align: center;
+}
+
+
+article {
+	line-height: 1em;
+	text-align: center;
+}
+
+aside {
+	line-height: 1em;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
+
